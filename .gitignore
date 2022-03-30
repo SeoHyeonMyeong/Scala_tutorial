@@ -1,0 +1,4 @@
+.metals
+.vscode
+scala-tutorial/target
+scala-tutorial/project/target
