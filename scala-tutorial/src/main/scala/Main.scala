@@ -1,5 +1,7 @@
-@main def hello: Unit = 
-  println("Hello world!")
-  println(msg)
+package tutor
 
-def msg = "I was compiled by Scala 3. :)"
+@main def main: Unit = 
+  println("This is Main Funtion.")
+  println("------------------------")
+
+  Hello.test()
