@@ -2,6 +2,7 @@ package tutor
 
 @main def main: Unit = 
   println("This is Main Funtion.")
-  println("------------------------")
+  println("==============================")
 
-  Hello.test()
+  // Hello.test()
+  Variables.test()
