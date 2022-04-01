@@ -5,4 +5,5 @@ package tutor
   println("==============================")
 
   // Hello.test()
-  Variables.test()
+  // Variables.test()
+  Types.test()
