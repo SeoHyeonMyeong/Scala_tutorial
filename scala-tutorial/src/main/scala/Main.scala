@@ -6,4 +6,6 @@ package tutor
 
   // Hello.test()
   // Variables.test()
-  Types.test()
+  // Types.test()
+  N00_Setting.test()
+  N01_Why_scala.test()

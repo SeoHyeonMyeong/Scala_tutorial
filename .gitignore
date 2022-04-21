@@ -2,3 +2,5 @@
 .vscode
 scala-tutorial/target
 scala-tutorial/project/target
+target
+project
